@@ -1,5 +1,6 @@
 # StudentGradeCalculator
 This is My First Git Repository
+
 import java.util.Scanner;
 
 public class StudentGradeCalculator {
