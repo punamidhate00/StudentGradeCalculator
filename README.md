@@ -1,5 +1,5 @@
 # StudentGradeCalculator
-This is My First Git Repository
+#This is My First Git Repository
 
 import java.util.Scanner;
 
